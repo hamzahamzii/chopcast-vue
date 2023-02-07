@@ -1,0 +1,9 @@
+{
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "email": "Email Address",
+  "title": "User Profile",
+  "save": "SAVE",
+  "dragFile": "Drop file or click to upload",
+  "removeFile": "Remove file"
+}

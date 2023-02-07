@@ -1,0 +1,9 @@
+{
+    "firstName": "Nombre de pila",
+    "lastName": "Apellido",
+    "email": "Dirección de correo electrónico",
+    "title": "Perfil del usuario",
+    "save": "AHORRAR",
+    "dragFile": "Suelte el archivo o haga clic para cargar",
+    "removeFile": "Remover archivo"
+  }

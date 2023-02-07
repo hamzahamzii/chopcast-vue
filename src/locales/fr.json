@@ -1,0 +1,9 @@
+{
+    "firstName": "Prénom",
+    "lastName": "Nom de famille",
+    "email": "Adresse e-mail",
+    "title": "Profil de l'utilisateur",
+    "save": "SAUVEGARDER",
+    "dragFile": "Déposez le fichier ou cliquez pour télécharger",
+    "removeFile": "Effacer le fichier"
+}
